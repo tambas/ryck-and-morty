@@ -1,0 +1,63 @@
+.home
+  @apply mt-5 px-2 flex-grow
+
+  @media(min-width: theme('screens.md'))
+    @apply px-0
+
+  .loader
+    @apply flex w-full justify-center mt-20
+
+  .seasons
+    @apply flex justify-between rounded shadow-md w-full overflow-hidden
+    background-color #343434
+    border-top 1px solid rgba(255, 255, 255, 0.1)
+
+    .season
+      @apply py-4 w-full h-full text-center uppercase font-bold border-r border-solid cursor-pointer
+      border-color rgba(255, 255, 255, 0.1)
+      color #E2E2E2
+
+      span
+        @apply hidden
+
+        @media(min-width: theme('screens.md'))
+          @apply inline-block
+
+      &:last-child
+        @apply border-none
+
+      &.active, &:hover
+        background-color #202020
+
+  .episodes
+    @apply grid grid-cols-2 gap-8 mt-5
+
+    @media(min-width: theme('screens.md'))
+      @apply grid-cols-3 mt-10
+
+    .episode
+      @apply relative justify-between rounded-lg shadow-md text-center uppercase font-bold overflow-hidden cursor-pointer bg-black
+      border-top 1px solid rgba(255, 255, 255, 0.3)
+
+      img
+        transition all .3s ease;
+        object-fit cover
+
+      &:hover img
+        @apply opacity-75
+        transform scale(1.05)
+
+      .number
+        @apply absolute top-0 right-0 px-3 py-2
+        text-shadow 0 0 4px rgba(0, 0, 0, 1)
+
+      .play
+        @apply flex absolute top-0 left-0 w-full h-full text-4xl self-center items-center
+
+        svg
+          @apply w-full
+          filter drop-shadow(0px 0px 3px rgba(0, 0, 0, 0.75))
+          transition all .1s ease;
+
+      &:hover .play svg
+        transform scale(1.05)

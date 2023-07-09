@@ -1,0 +1,26 @@
+.player
+  @apply absolute flex items-center justify-center top-0 bottom-0 left-0 right-0 w-full h-full bg-black
+
+  .back
+    @apply absolute top-0 left-0 p-10 text-3xl text-white cursor-pointer z-10
+    transition all .3s ease;
+
+    @media(min-width: theme('screens.lg'))
+      @apply py-2 pl-5 opacity-0
+
+    svg
+      filter drop-shadow(0px 0px 3px rgba(0, 0, 0, .5))
+
+    span
+      @apply opacity-0
+      text-shadow 0 0 4px rgba(0, 0, 0, .5)
+      transition all .3s ease;
+
+    &:hover
+      transform scale(1.05)
+
+      span
+        @apply opacity-100
+
+  &:hover .back
+    @apply opacity-100

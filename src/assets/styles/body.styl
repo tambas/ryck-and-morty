@@ -1,0 +1,31 @@
+html
+  overflow-y scroll;
+
+body
+  @apply text-white
+  background-color #201E23
+  background-image url("../images/background.png")
+  background-position top center
+  background-repeat no-repeat
+  /*background-size contain*/
+
+#app
+  @apply flex flex-col min-h-screen
+
+::-webkit-scrollbar
+  width 12px
+
+::-webkit-scrollbar-track
+  background #333333
+  padding 2px
+
+::-webkit-scrollbar-thumb
+  background #5b5b5b
+  border-radius 10px
+  background-clip padding-box
+  border 3px solid rgba(0, 0, 0, 0)
+
+::-webkit-scrollbar-thumb:hover
+  background #515151
+  background-clip padding-box
+  border 3px solid rgba(0, 0, 0, 0)

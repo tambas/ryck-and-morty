@@ -1,0 +1,328 @@
+{
+  "seasons": {
+    "1": {
+      "episodes": {
+        "1": {
+          "name": "De la graine de héros",
+          "image": "1x1-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-1/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-1/subtitles_fra.srt"
+          }
+        },
+        "2": {
+          "name": "I, croquette",
+          "image": "1x2-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-2/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-2/subtitles_fra.srt"
+          }
+        },
+        "3": {
+          "name": "Anatomy Park",
+          "image": "1x3-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-3/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-3/subtitles_fra.srt"
+          }
+        },
+        "4": {
+          "name": "M. Night Shaym-Aliens!",
+          "image": "1x4-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-4/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-4/subtitles_fra.srt"
+          }
+        },
+        "5": {
+          "name": "La boîte à larbins",
+          "image": "1x5-1",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-5/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-5/subtitles_fra.srt"
+          }
+        },
+        "6": {
+          "name": "E-Rick-Xir d'amour",
+          "image": "1x6-1",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-6/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-6/subtitles_fra.srt"
+          }
+        },
+        "7": {
+          "name": "Gazorpazorp junior",
+          "image": "1x7-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-7/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-7/subtitles_fra.srt"
+          }
+        },
+        "8": {
+          "name": "Télé... visions",
+          "image": "1x8-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-8/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-8/subtitles_fra.srt"
+          }
+        },
+        "9": {
+          "name": "La petite bou-Rick des horreurs",
+          "image": "1x9-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-9/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-9/subtitles_fra.srt"
+          }
+        },
+        "10": {
+          "name": "Rencontres du 3ème Rick",
+          "image": "1x10-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-10/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-10/subtitles_fra.srt"
+          }
+        },
+        "11": {
+          "name": "Ricksy Business",
+          "image": "1x11-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-11/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-1-11/subtitles_fra.srt"
+          }
+        }
+      }
+    },
+    "2": {
+      "episodes": {
+        "1": {
+          "name": "Effet Rick-ochet",
+          "image": "2x1-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-1/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-1/subtitles_fra.srt"
+          }
+        },
+        "2": {
+          "name": "Prout, l'extra-terrestre",
+          "image": "2x2-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-2/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-2/subtitles_fra.srt"
+          }
+        },
+        "3": {
+          "name": "Assimilation auto-érotique",
+          "image": "2x3-1",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-3/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-3/subtitles_fra.srt"
+          }
+        },
+        "4": {
+          "name": "Total Rickall",
+          "image": "2x4-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-4/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-4/subtitles_fra.srt"
+          }
+        },
+        "5": {
+          "name": "On va vous faire schwifter",
+          "image": "2x5-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-5/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-5/subtitles_fra.srt"
+          }
+        },
+        "6": {
+          "name": "Les Ricks sont tombés sur la tête",
+          "image": "2x6-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-6/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-6/subtitles_fra.srt"
+          }
+        },
+        "7": {
+          "name": "Mini-Rick, méga hic",
+          "image": "2x7-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-7/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-7/subtitles_fra.srt"
+          }
+        },
+        "8": {
+          "name": "Cable interdimensionnel 2 : tenter le destin",
+          "image": "2x8-1",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-8/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-8/subtitles_fra.srt"
+          }
+        },
+        "9": {
+          "name": "Qui est-ce qui purge, maintenant ?",
+          "image": "2x9-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-9/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-9/subtitles_fra.srt"
+          }
+        },
+        "10": {
+          "name": "Mariage à la squanchaise",
+          "image": "2x10-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-10/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-2-10/subtitles_fra.srt"
+          }
+        }
+      }
+    },
+    "3": {
+      "episodes": {
+        "1": {
+          "name": "À la recherche de Rick",
+          "image": "3x1-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-1/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-1/subtitles_fra.srt"
+          }
+        },
+        "2": {
+          "name": "À la recherche de la pierre verte",
+          "image": "3x2-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-2/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-2/subtitles_fra.srt"
+          }
+        },
+        "3": {
+          "name": "Rick-ornichon",
+          "image": "3x3-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-3/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-3/subtitles_fra.srt"
+          }
+        },
+        "4": {
+          "name": "Troisième édition",
+          "image": "3x4-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-4/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-4/subtitles_fra.srt"
+          }
+        },
+        "5": {
+          "name": "Conspiration",
+          "image": "3x5-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-5/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-5/subtitles_fra.srt"
+          }
+        },
+        "6": {
+          "name": "Repos et Ricklaxation",
+          "image": "3x6-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-6/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-6/subtitles_fra.srt"
+          }
+        },
+        "7": {
+          "name": "Confusion en Ricklantide",
+          "image": "3x7-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-7/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-7/subtitles_fra.srt"
+          }
+        },
+        "8": {
+          "name": "Les souvenirs effacés de Morty",
+          "image": "3x8-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-8/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-8/subtitles_fra.srt"
+          }
+        },
+        "9": {
+          "name": "Froopyland",
+          "image": "3x9-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-9/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-9/subtitles_fra.srt"
+          }
+        },
+        "10": {
+          "name": "L'ami de Washington",
+          "image": "3x10-0",
+          "stream": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-10/master.m3u8",
+          "subtitles": {
+            "Francais": "https://rickandmorty-cdn.voidmx.net/rick-and-morty-3-10/subtitles_fra.srt"
+          }
+        }
+      }
+    },
+    "4": {
+      "episodes": {
+        "1": {
+          "name": "Edge of Tomorty",
+          "image": "4x1-1",
+          "stream": "https://rickandmorty-drm.voidmx.net/cdn/3997154.mpd",
+          "drm": "https://rickandmorty-drm.voidmx.net/drm/3997154"
+        },
+        "2": {
+          "name": "Le vieil homme et la merde",
+          "image": "4x2-0",
+          "stream": "https://rickandmorty-drm.voidmx.net/cdn/4013950.mpd",
+          "drm": "https://rickandmorty-drm.voidmx.net/drm/4013950"
+        },
+        "3": {
+          "name": "Vol au-dessus d'un nid de Morty",
+          "image": "4x3-0",
+          "stream": "https://rickandmorty-drm.voidmx.net/cdn/4027221.mpd",
+          "drm": "https://rickandmorty-drm.voidmx.net/drm/4027221"
+        },
+        "4": {
+          "name": "C'est mon dragon et bien plus encore",
+          "image": "4x4-0",
+          "stream": "https://rickandmorty-drm.voidmx.net/cdn/4027286.mpd",
+          "drm": "https://rickandmorty-drm.voidmx.net/drm/4027286"
+        },
+        "5": {
+          "name": "Battlestar Ricklactica",
+          "image": "4x5-0",
+          "stream": "https://rickandmorty-drm.voidmx.net/cdn/4027257.mpd",
+          "drm": "https://rickandmorty-drm.voidmx.net/drm/4027257"
+        },
+        "6": {
+          "name": "Rickstoires sans fin",
+          "image": "4x6-0",
+          "stream": "https://rickandmorty-drm.voidmx.net/cdn/4335517.mpd",
+          "drm": "https://rickandmorty-drm.voidmx.net/drm/4335517"
+        },
+        "7": {
+          "name": "Promortyus",
+          "image": "4x7-0",
+          "stream": "https://rickandmorty-drm.voidmx.net/cdn/4365947.mpd",
+          "drm": "https://rickandmorty-drm.voidmx.net/drm/4365947"
+        },
+        "8": {
+          "name": "L'épisode de la cuve d'acide",
+          "image": "4x8-0",
+          "stream": "https://rickandmorty-drm.voidmx.net/cdn/4399435.mpd",
+          "drm": "https://rickandmorty-drm.voidmx.net/drm/4399435"
+        },
+        "9": {
+          "name": "Childrick of Morty",
+          "image": "4x9-0",
+          "stream": "https://rickandmorty-drm.voidmx.net/cdn/4428414.mpd",
+          "drm": "https://rickandmorty-drm.voidmx.net/drm/4428414"
+        },
+        "10": {
+          "name": "Le Pire contre-attaque",
+          "image": "4x10-0",
+          "stream": "https://rickandmorty-drm.voidmx.net/cdn/4459542.mpd",
+          "drm": "https://rickandmorty-drm.voidmx.net/drm/4459542"
+        }
+      }
+    }
+  }
+}

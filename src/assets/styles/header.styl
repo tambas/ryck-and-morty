@@ -1,0 +1,26 @@
+.header
+  @apply mt-5 px-2
+
+  .container
+    @apply flex justify-between
+
+  .btn
+    @apply self-center uppercase shadow-md
+
+    &.episodes svg
+      @apply ml-2
+
+    &.about svg
+      @apply mr-2
+
+  .logo
+    @apply flex justify-center
+
+    img
+      @apply hidden
+
+  @media(min-width: theme('screens.md'))
+    @apply mt-0 px-0
+
+    .logo img
+      @apply block h-40
